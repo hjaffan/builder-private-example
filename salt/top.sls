@@ -7,7 +7,7 @@ base:
         - elife
 
     'master-server--*':
-        - master-server
+#        - master-server
 
     'lax--*':
         - elife.nginx
